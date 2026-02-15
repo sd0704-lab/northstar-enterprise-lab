@@ -7,6 +7,7 @@ Enterprise Infrastructure Lab
 - pfSense Firewall (FW-PFSENSE01)
 - Domain Controller (NST-DC01)
 - Windows 11 Client (NST-OFFICE01)
+- Windows 10 Client (NST-OFFICE02)
 - Internal LAN: 192.168.10.0/24
 
 ## Active Directory Structure
