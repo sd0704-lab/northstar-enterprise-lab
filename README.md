@@ -4,7 +4,7 @@ Enterprise Infrastructure Lab
 ## Phase 1 – Core Infrastructure
 
 - Proxmox Hypervisor (NST-HV01)
-- pfSense Firewall (FW-PFSENSE01)
+- pfSense Firewall (NST-FW01)
 - Domain Controller (NST-DC01)
 - Windows 11 Client (NST-OFFICE01)
 - Windows 10 Client (NST-OFFICE02)
