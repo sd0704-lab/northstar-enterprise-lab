@@ -1,36 +1,30 @@
 # Northstar Precision Manufacturing
-Enterprise Infrastructure Lab
+Enterprise Infrastructure & Cyber Defense Lab
 
 ## Phase 1 – Core Infrastructure
 
-- Proxmox Hypervisor (NST-HV01)
-- pfSense Firewall (NST-FW01)
-- Domain Controller (NST-DC01)
-- Windows 11 Client (NST-OFFICE01)
-- Windows 10 Client (NST-OFFICE02)
-- Internal LAN: 192.168.10.0/24
+- Proxmox Virtualization Platform
+- pfSense Firewall & Network Segmentation 
+- Windows Server Domain Controller (AD DS)
+- Windows 10/11 Domain-Joined Workstations
+- Enterprise LAN Architecture
 
-## Active Directory Structure
+## Identity & Access Model
 
-OUs:
-- NPM-Users
-- NPM-Groups
-- NPM-Servers
-- NPM-Workstations
+- Organizational Unit Structure by role and function
+- Department-based security group design
+- Role-Based Access Control (RBAC)
+- Least Privilege enforcement
+- Group Policy baseline hardening
 
-Departments:
-- HR
-- Engineering
-- IT
-- Management
+## Security Controls Implemented
 
-## Security Model
+- Password complexity enmforcement
+- Account lockout policies
+- Disabled guest access
+- NTFS permission modeling via security groups
 
-Accounts → Security Groups → NTFS Permissions
+## Documentation
 
-Baseline GPO:
-- Password complexity enabled
-- Minimum 12 characters
-- Account lockout at 5 attempts
-- Guest account disabled
+Full architectural diagrams, OU breakdowns, group structure, and GPO configuration are documented in /docs. 
 
