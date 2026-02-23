@@ -1,4 +1,4 @@
-# 00 - Project Charter  
+## 00 - Project Charter  
 Northstar Precision Manufacturing (NPM) – Enterprise Cyber Defense Lab
 
 ## 1. Project Purpose
