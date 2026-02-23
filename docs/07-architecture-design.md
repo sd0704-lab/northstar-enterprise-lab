@@ -9,7 +9,7 @@ The Northstar Precision Manufacturing (NPM) Enterprise Cyber Defense Lab is a si
 * Centralized logging and monitoring
 * Incident response exercises
 * Purple team adversary simulation
-The environment is fully virtualized and governed under structured project management documentation.
+* The environment is fully virtualized and governed under structured project management documentation.
 ### High-Level Components
 * **Proxmox VE (NST-HV01)**
   Virtualization platform hosting all core lab virtual machines.
