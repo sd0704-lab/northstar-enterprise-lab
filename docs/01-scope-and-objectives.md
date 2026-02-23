@@ -1,4 +1,4 @@
-# 01 - Scope and Objectives
+## 01 - Scope and Objectives
 
 ## 1. Scope Statement
 This project includes the design and implementation of a simulated enterprise cybersecurity environment supporting identity management, network security, monitoring, and adversary simulation. The environment will be built using virtualized infrastructure and documented to enterprise standards.
